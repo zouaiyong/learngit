@@ -1,2 +1,3 @@
 git is a distributed version constor system.
 git is free software.diff
+git is learn
