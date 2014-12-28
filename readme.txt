@@ -8,3 +8,5 @@ git changes
 git test
 git test changes
 git changes test 
+git checkout
+git stupid
