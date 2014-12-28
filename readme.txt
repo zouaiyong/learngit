@@ -5,3 +5,4 @@ git has a mutable index called stage
 git tracks changes of files
 git tracks
 git changes
+git test
