@@ -15,3 +15,4 @@ git reset HEAD file
 git checkout -- file
 git branch test
 git aiyong branch
+creat a new branch is quick AND simple.
