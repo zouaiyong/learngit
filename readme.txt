@@ -13,3 +13,5 @@ git stupid
 git checkout test
 git reset HEAD file 
 git checkout -- file
+git branch test
+
