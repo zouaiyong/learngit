@@ -10,3 +10,6 @@ git test changes
 git changes test 
 git checkout
 git stupid
+git checkout test
+git reset HEAD file 
+git checkout -- file
