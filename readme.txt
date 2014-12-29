@@ -22,9 +22,9 @@ switched to branch master
 branch dev.
 git reflog
 git stash
-<<<<<<< Updated upstream
 git bug
 git stash list
-=======
 git bug
->>>>>>> Stashed changes
+
+
+
