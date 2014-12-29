@@ -19,3 +19,4 @@ creat a new branch is quick AND simple.
 creat a new branch is quick&simple.
 git merge
 switched to branch master
+branch dev.
