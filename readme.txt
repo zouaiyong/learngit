@@ -21,3 +21,4 @@ git merge
 switched to branch master
 branch dev.
 git reflog
+git stash
